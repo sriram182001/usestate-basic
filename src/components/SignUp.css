@@ -1,0 +1,14 @@
+.form-control{
+    align-items: center;
+    background-color:goldenrod;
+    border-radius: 25px;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+
+.display{
+    background-color: tomato;
+    border-radius: 25px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
